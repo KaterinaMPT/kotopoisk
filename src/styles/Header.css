@@ -1,0 +1,9 @@
+.poisk{
+    display: flex;
+    align-items: center;
+    margin-top: 2%;
+ }
+#kot{
+   width: 55px;
+   height: 55px;
+}

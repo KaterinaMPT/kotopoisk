@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+body.dark {
+  background-color: #343a40;
+  color: #f8f9fa;
+}
+
+body.light {
+  background-color: #ebebeb;
+  color: #343a40;
+}
+
+.bg-dark {
+  background-color: #343a40 !important;
+}
+
+.bg-light {
+  background-color: #ffffff !important;
+}
+
+.search-dark {
+  background-color: #ffffff !important;
+  color: #343a40 !important;
+  border-color: #343a40 !important;
+}
+
